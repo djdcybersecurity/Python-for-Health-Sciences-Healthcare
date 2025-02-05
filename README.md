@@ -4,7 +4,7 @@
 This repository contains structured learning materials and practical coding exercises for the **Python for Health Sciences and Healthcare** course. The content is designed to help professionals in the healthcare field leverage Python for **data analysis, healthcare analytics, and automation**.
 
 ## Repository Structure
-The repository is organized into multiple **chapters**, each covering different topics relevant to Python in healthcare.
+The repository is organized into multiple **chapters**, each covering different aspects of Python programming with a healthcare focus.
 
 ### Chapters:
 
@@ -16,21 +16,49 @@ The repository is organized into multiple **chapters**, each covering different 
   - Python basics (naming conventions, keywords)
 
 - **Chapter 2: Setup and Workspace**
-  - Working with Google Colaboratory
-  - Overview of Coderpad challenges
+  - Google Colaboratory Notebook
+  - Coderpad coding challenges overview
 
-- **Chapter 3: Data Handling and Processing** *(Upcoming)*
-  - Working with healthcare datasets
-  - Pandas for data manipulation
-  - File handling (CSV, JSON, Excel)
+- **Chapter 3: Data Types in Python**
+  - Numeric data types
+  - String data types
+  - Boolean data types
 
-- **Chapter 4: Data Visualization for Healthcare** *(Upcoming)*
-  - Using Matplotlib and Seaborn
-  - Creating meaningful visualizations for medical data
+- **Chapter 4: Basic Operations in Python**
+  - Arithmetic operations
+  - Comparison operations
+  - Logical operations
+  - Code challenges for string repetition and floor division
 
-- **Chapter 5: Healthcare Analytics and Automation** *(Upcoming)*
-  - Automating reports with Python
-  - Basic machine learning for health applications
+- **Chapter 5: Data Structures in Python**
+  - Lists, Tuples, and Sets
+  - Dictionaries
+  - Code challenges for manipulating lists and sets
+
+- **Chapter 6: File Handling in Python**
+  - Open, Write, and Read files
+
+- **Chapter 7: Python Functions and Statements**
+  - Defining functions
+  - Conditional statements
+  - For loops
+  - Code challenges for defining functions and iterating lists
+
+- **Chapter 8: Built-in Functions and Other Operations in Python**
+  - Common built-in functions (length, count, max, min, sum)
+  - String manipulation (case, split, join, replace)
+  - Advanced functions (zip, map, slicing, formatting)
+  - Code challenges involving tuples and lists
+
+- **Chapter 9: Code Documentation in Python**
+  - Comments and docstrings
+  - Handling error messages
+  - Official Python documentation reference
+
+- **Chapter 10: Libraries**
+  - Import statement and aliasing
+  - Installing and uninstalling Python libraries
+  - Python data analysis libraries
 
 ## Getting Started
 ### Clone the Repository
@@ -71,6 +99,7 @@ Contributions are welcome! Feel free to submit **pull requests** with improvemen
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
 - [Google Colaboratory](https://colab.research.google.com/)
+- [LinkedInLearning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare)
 
 ---
 
