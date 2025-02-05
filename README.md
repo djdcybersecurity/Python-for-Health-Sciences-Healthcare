@@ -64,8 +64,7 @@ This repository aims to **bridge the gap between programming and healthcare anal
 ## Contributing
 Contributions are welcome! Feel free to submit **pull requests** with improvements, bug fixes, or additional resources.
 
-## License
-This project is licensed under the **MIT License** – see the LICENSE file for details.
+
 
 ## Resources
 - [Python Official Documentation](https://docs.python.org/3/)
